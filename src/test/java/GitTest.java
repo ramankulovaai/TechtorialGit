@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("Aigerim");
 
         System.out.println("100");
+        System.out.println("Scrum Runner Branch");
     }
 }
